@@ -28,3 +28,13 @@
 104.25.118.124
 104.24.142.185
 104.22.48.153
+discord.com
+laravel.com
+cdnjs.com
+www.speedtest.net
+workers.dev
+nginx.com
+chat.openai.com
+auth0.openai.com
+codepen.io
+api.jquery.com
